@@ -1,5 +1,5 @@
  <p align="center">
- <a href="https://github.com/othneildrew/Best-README-Template">
+ <a href="#">
     <img src="icon.ico" alt="Logo">
   </a>
 </p>
@@ -9,7 +9,7 @@
 Randomize what blocks you place quick and easy. #minecraft #minecraft-builds #minecraft-tools
 
  <p align="center">
- <a href="https://github.com/othneildrew/Best-README-Template">
+ <a href="#">
     <img src="Screenshot 2021-02-24 204923.png" alt="Logo">
   </a>
 </p>
