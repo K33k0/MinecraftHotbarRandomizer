@@ -12,7 +12,8 @@ Randomize what blocks you place quick and easy. #minecraft #minecraft-builds #mi
  <a href="#">
     <img src="Screenshot 2021-02-24 204923.png" alt="Logo">
   </a>
-</p>
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/XvOHrjmqT84/0.jpg)](http://www.youtube.com/watch?v=XvOHrjmqT84 "Minecraft Hotbar Randomizer")
 
 - Move the sliders to adjust the probability of that block being placed; the higher the slider, the more chance of that one being used.
 
